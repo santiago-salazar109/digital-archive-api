@@ -44,10 +44,7 @@ A continuación se detallan las rutas programadas para la interacción con el ca
 
 ## Modelo de Datos (Diagrama Entidad-Relación)
 
-Estructura lógica diseñada para la migración hacia el motor de base de datos relacional. Este diagrama define la entidad principal y sus restricciones de tipos de datos.
-## Modelo de Datos (Diagrama Entidad-Relación)
-
-Estructura lógica diseñada para la migración hacia el motor de base de datos relacional. Este diagrama define la entidad principal y sus restricciones de tipos de datos, renderizándose de manera nativa en GitHub mediante Mermaid.js:
+Estructura lógica diseñada para la migración hacia el motor de base de datos relacional. Este diagrama define la entidad principal y sus restricciones de tipos de datos. 
 
 ```mermaid
 erDiagram
